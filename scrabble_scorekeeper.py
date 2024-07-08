@@ -1,4 +1,4 @@
-"""Welcome to the SCRABBLE SCOREKEEPER, a project by Francisco Cristina (https://github.com/gumballoon).
+"""Welcome to the SCRABBLE SCOREKEEPER, a project developed by Francisco Cristina (https://github.com/gumballoon).
 This tool simplifies score keeping, player management, and awarding special prizes in Scrabble games.
 For detailed instructions and information, please refer to the README file."""
 
