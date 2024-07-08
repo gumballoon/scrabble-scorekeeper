@@ -1,6 +1,9 @@
 # scrabble-scorekeeper
+**Disclaimer**
+This project is a significant milestone in my journey of learning Python, as it was the first project where I truly invested myself. I completed it in March 2024, with just two months of learning under my belt. As a beginner project, there are many things I would do differently today with the knowledge and experience I've gained since then. I appreciate any feedback or suggestions for improvement!
+
 **Overview**
-Welcome to the SCRABBLE SCOREKEEPER, developed by Francisco Cristina (https://github.com/gumballoon). 
+Welcome to the SCRABBLE SCOREKEEPER, developed by Francisco Cristina (https://github.com/gumballoon).
 This program is designed to help you keep track of scores, manage player profiles, and award special prizes in a game of Scrabble. Whether you're playing a casual game with friends or hosting a Scrabble tournament, this tool makes scorekeeping easy and fun.
 
 **Features**
